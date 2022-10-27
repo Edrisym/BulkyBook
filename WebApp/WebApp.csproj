@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>2088e927-aad9-4f8a-bee8-cb38efe57886</UserSecretsId>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Remove="Newtonsoft.Json" />
+		<None Remove="Microsoft.Data.SqlClient" />
+		<None Remove="EntityFramework" />
+		<None Remove="Microsoft.AspNetCore.Mvc" />
+		<None Remove="Microsoft.Extensions.Logging" />
+		<None Remove="Microsoft.AspNet.Mvc" />
+		<None Remove="Microsoft.EntityFrameworkCore" />
+		<None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+		<None Remove="Microsoft.EntityFrameworkCore.Design" />
+		<None Remove="Microsoft.EntityFrameworkCore.Tools" />
+		<None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+		<None Remove="Swashbuckle.AspNetCore" />
+		<None Remove="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
+		<None Remove="Microsoft.AspNetCore.Identity.UI" />
+		<None Remove="Areas\" />
+		<None Remove="Areas\Admin\" />
+		<None Remove="Areas\Customer\" />
+		<None Remove="Areas\Admin\Controllers\" />
+		<None Remove="Areas\Admin\Views\" />
+		<None Remove="Areas\Customer\Controllers\" />
+		<None Remove="Areas\Customer\Views\" />
+		<None Remove="Areas\Admin\Views\Category\" />
+		<None Remove="Areas\Customer\Views\Home\" />
+		<None Remove="Areas\Admin\Views\Product\" />
+		<None Remove="Microsoft.AspNet.Identity.EntityFramework" />
+		<None Remove="Areas\Admin\Views\Company\" />
+		<None Remove="Stripe.net" />
+		<None Remove="Areas\Admin\Views\Order\" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Areas\" />
+		<Folder Include="Areas\Admin\" />
+		<Folder Include="Areas\Customer\" />
+		<Folder Include="Areas\Admin\Controllers\" />
+		<Folder Include="Areas\Admin\Views\" />
+		<Folder Include="Areas\Customer\Controllers\" />
+		<Folder Include="Areas\Customer\Views\" />
+		<Folder Include="Areas\Admin\Views\Category\" />
+		<Folder Include="Areas\Customer\Views\Home\" />
+		<Folder Include="Areas\Admin\Views\Product\" />
+		<Folder Include="wwwroot\Images\" />
+		<Folder Include="wwwroot\Images\Products\" />
+		<Folder Include="Areas\Admin\Views\Company\" />
+		<Folder Include="Areas\Admin\Views\Order\" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.10" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.10" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.10" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
+		<PackageReference Include="Stripe.net" Version="40.14.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\WebApp.DataAccess\WebApp.DataAccess.csproj">
+			<GlobalPropertiesToRemove>
+			</GlobalPropertiesToRemove>
+		</ProjectReference>
+		<ProjectReference Include="..\WebApp.Models\WebAppMod.Models.csproj">
+			<GlobalPropertiesToRemove>
+			</GlobalPropertiesToRemove>
+		</ProjectReference>
+		<ProjectReference Include="..\WebApp.Utility\WebApp.Utility.csproj">
+			<GlobalPropertiesToRemove>
+			</GlobalPropertiesToRemove>
+		</ProjectReference>
+	</ItemGroup>
+	<ItemGroup>
+		<Content Remove="wwwroot\Images\" />
+		<Content Remove="wwwroot\Images\Products\" />
+		<Content Remove="wwwroot\DataTables\.DS_Store" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\.DS_Store" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap4.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap4.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap5.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bootstrap5.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bulma.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.bulma.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.dataTables.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.dataTables.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.foundation.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.foundation.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.jqueryui.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.jqueryui.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.semanticui.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\dataTables.semanticui.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\jquery.dataTables.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\css\jquery.dataTables.min.css" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_asc_disabled.png" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_asc.png" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_both.png" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_desc_disabled.png" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\images\sort_desc.png" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap4.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap4.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap5.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap5.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bulma.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bulma.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.dataTables.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.dataTables.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.foundation.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.foundation.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.jqueryui.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.jqueryui.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.min.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.js" />
+		<Content Remove="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.min.js" />
+		<Content Remove="wwwroot\DataTables\datatables.css" />
+		<Content Remove="wwwroot\DataTables\datatables.js" />
+		<Content Remove="wwwroot\DataTables\datatables.min.css" />
+		<Content Remove="wwwroot\DataTables\datatables.min.js" />
+		<Content Remove="wwwroot\toastr\.jscsrc" />
+		<Content Remove="wwwroot\toastr\toastr.scss" />
+		<Content Remove="wwwroot\toastr\release checklist.md" />
+		<Content Remove="wwwroot\toastr\LICENSE" />
+		<Content Remove="wwwroot\toastr\CHANGELOG.md" />
+		<Content Remove="wwwroot\toastr\toastr.less" />
+		<Content Remove="wwwroot\toastr\.jshintrc" />
+		<Content Remove="wwwroot\toastr\toastr-icon.png" />
+		<Content Remove="wwwroot\toastr\README.md" />
+		<Content Remove="wwwroot\toastr\.gitignore" />
+		<Content Remove="wwwroot\toastr\package-lock.json" />
+		<Content Remove="wwwroot\toastr\package.json" />
+		<Content Remove="wwwroot\toastr\karma.conf.js" />
+		<Content Remove="wwwroot\toastr\tests\toastr-tests.html" />
+		<Content Remove="wwwroot\toastr\tests\unit\x.js" />
+		<Content Remove="wwwroot\toastr\tests\unit\qunit-helper.js" />
+		<Content Remove="wwwroot\toastr\tests\unit\toastr-tests.js" />
+		<Content Remove="wwwroot\toastr\tests\qunit\qunit.css" />
+		<Content Remove="wwwroot\toastr\tests\qunit\qunit.js" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.1.0.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.0.0.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.0-rc1.nupkg" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.0-rc1.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.1.2.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.0.2.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.1.4.1.nupkg" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.2.nupkg" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.3.1.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.2.1.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.3.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.1.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.2.0.3.nupkg" />
+		<Content Remove="wwwroot\toastr\nuget\toastr.1.1.4.1.nuspec" />
+		<Content Remove="wwwroot\toastr\nuget\content\content\toastr.scss" />
+		<Content Remove="wwwroot\toastr\nuget\content\content\toastr.min.css" />
+		<Content Remove="wwwroot\toastr\nuget\content\content\toastr.less" />
+		<Content Remove="wwwroot\toastr\nuget\content\content\toastr.css" />
+		<Content Remove="wwwroot\toastr\nuget\content\scripts\toastr.min.js" />
+		<Content Remove="wwwroot\toastr\nuget\content\scripts\toastr.js" />
+		<Content Remove="wwwroot\toastr\nuget\content\scripts\toastr.min.js.map" />
+		<Content Remove="wwwroot\package\LICENSE" />
+		<Content Remove="wwwroot\package\sweetalert2.d.ts" />
+		<Content Remove="wwwroot\package\README.md" />
+		<Content Remove="wwwroot\package\package.json" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.all.js" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.all.min.js" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.min.js" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.min.css" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.js" />
+		<Content Remove="wwwroot\package\dist\sweetalert2.css" />
+		<Content Remove="wwwroot\package\src\constants.js" />
+		<Content Remove="wwwroot\package\src\popup-click-handler.js" />
+		<Content Remove="wwwroot\package\src\variables.scss" />
+		<Content Remove="wwwroot\package\src\privateProps.js" />
+		<Content Remove="wwwroot\package\src\types.js" />
+		<Content Remove="wwwroot\package\src\staticMethods.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods.js" />
+		<Content Remove="wwwroot\package\src\keydown-handler.js" />
+		<Content Remove="wwwroot\package\src\privateMethods.js" />
+		<Content Remove="wwwroot\package\src\sweetalert2.scss" />
+		<Content Remove="wwwroot\package\src\globalState.js" />
+		<Content Remove="wwwroot\package\src\sweetalert2.js" />
+		<Content Remove="wwwroot\package\src\buttons-handlers.js" />
+		<Content Remove="wwwroot\package\src\SweetAlert.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\fire.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\timer.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\showLoading.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\mixin.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\dom.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\bindClickHandler.js" />
+		<Content Remove="wwwroot\package\src\staticMethods\argsToParams.js" />
+		<Content Remove="wwwroot\package\src\scss\_toasts.scss" />
+		<Content Remove="wwwroot\package\src\scss\_animations.scss" />
+		<Content Remove="wwwroot\package\src\scss\_body.scss" />
+		<Content Remove="wwwroot\package\src\scss\_toasts-animations.scss" />
+		<Content Remove="wwwroot\package\src\scss\_core.scss" />
+		<Content Remove="wwwroot\package\src\scss\_mixins.scss" />
+		<Content Remove="wwwroot\package\src\scss\_toasts-body.scss" />
+		<Content Remove="wwwroot\package\src\scss\_theming.scss" />
+		<Content Remove="wwwroot\package\src\instanceMethods\update.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\close.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\_destroy.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\getInput.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\enable-disable-elements.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\progress-steps.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\validation-message.js" />
+		<Content Remove="wwwroot\package\src\instanceMethods\hideLoading.js" />
+		<Content Remove="wwwroot\package\src\utils\Timer.js" />
+		<Content Remove="wwwroot\package\src\utils\isNodeEnv.js" />
+		<Content Remove="wwwroot\package\src\utils\params.js" />
+		<Content Remove="wwwroot\package\src\utils\defaultInputValidators.js" />
+		<Content Remove="wwwroot\package\src\utils\aria.js" />
+		<Content Remove="wwwroot\package\src\utils\scrollbarFix.js" />
+		<Content Remove="wwwroot\package\src\utils\classes.js" />
+		<Content Remove="wwwroot\package\src\utils\setParameters.js" />
+		<Content Remove="wwwroot\package\src\utils\utils.js" />
+		<Content Remove="wwwroot\package\src\utils\getTemplateParams.js" />
+		<Content Remove="wwwroot\package\src\utils\openPopup.js" />
+		<Content Remove="wwwroot\package\src\utils\iosFix.js" />
+		<Content Remove="wwwroot\package\src\utils\DismissReason.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\inputUtils.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\parseHtmlToContainer.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\getters.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\index.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\measureScrollbar.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\animationEndEvent.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\init.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\domUtils.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderContent.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderProgressSteps.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\render.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderPopup.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderCloseButton.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderContainer.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderFooter.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderInput.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderIcon.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderActions.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderTitle.js" />
+		<Content Remove="wwwroot\package\src\utils\dom\renderers\renderImage.js" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Include="wwwroot\DataTables\.DS_Store" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\.DS_Store" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.bootstrap.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.dataTables.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.foundation.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.jqueryui.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\dataTables.semanticui.min.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.js" />
+		<None Include="wwwroot\DataTables\DataTables-1.12.1\js\jquery.dataTables.min.js" />
+		<None Include="wwwroot\DataTables\datatables.css" />
+		<None Include="wwwroot\DataTables\datatables.js" />
+		<None Include="wwwroot\DataTables\datatables.min.css" />
+		<None Include="wwwroot\DataTables\datatables.min.js" />
+	</ItemGroup>
+</Project>

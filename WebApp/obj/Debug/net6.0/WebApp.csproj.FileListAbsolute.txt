@@ -1,0 +1,1771 @@
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/appsettings.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.staticwebassets.runtime.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.deps.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/netstandard.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Console.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Data.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Web.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/MessagePack.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Build.Locator.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/refint/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/WebApp.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp/obj/Debug/net6.0/ref/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/appsettings.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.staticwebassets.runtime.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.deps.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/netstandard.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Console.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Data.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Web.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/MessagePack.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.Utility.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/bin/Debug/net6.0/WebApp.Utility.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/refint/WebApp.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/WebApp.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp/obj/Debug/net6.0/ref/WebApp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/appsettings.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.staticwebassets.runtime.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.deps.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.CSharp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Features.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Http.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Localization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Options.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.JSInterop.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/Microsoft.Win32.Registry.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/mscorlib.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/netstandard.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.AppContext.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Buffers.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Configuration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Console.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Data.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Data.DataSetExtensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Data.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Contracts.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Debug.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.EventLog.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Process.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.StackTrace.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tools.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.TraceSource.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Diagnostics.Tracing.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Drawing.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Drawing.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Dynamic.Runtime.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Formats.Asn1.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.Calendars.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Globalization.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.Brotli.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Compression.ZipFile.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.IsolatedStorage.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipelines.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.Pipes.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Expressions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Parallel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Linq.Queryable.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Memory.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Http.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Http.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.HttpListener.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Mail.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.NameResolution.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.NetworkInformation.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Ping.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Requests.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Security.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.ServicePoint.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.Sockets.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebClient.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebHeaderCollection.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebProxy.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.Client.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Net.WebSockets.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Numerics.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Numerics.Vectors.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ObjectModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.DispatchProxy.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Metadata.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Reflection.TypeExtensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.Reader.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.ResourceManager.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Resources.Writer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Handles.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Intrinsics.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Loader.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Numerics.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.AccessControl.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Claims.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Cng.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Csp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Cryptography.Xml.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.Principal.Windows.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Security.SecureString.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ServiceModel.Web.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ServiceProcess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.CodePages.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encoding.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Encodings.Web.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Text.RegularExpressions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Channels.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Overlapped.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Thread.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.ThreadPool.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Threading.Timer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Transactions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Transactions.Local.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.ValueTuple.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Web.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Web.HttpUtility.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Windows.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.Linq.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.ReaderWriter.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.Serialization.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XDocument.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlDocument.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XmlSerializer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/System.Xml.XPath.XDocument.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/refs/WindowsBase.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Humanizer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/MessagePack.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Build.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Build.Framework.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Features.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Features.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.DiaSymReader.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.NET.StringTools.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Debugger.Contracts.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/dotnet-aspnet-codegenerator-design.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Stripe.net.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Composition.AttributedModel.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Composition.Convention.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Composition.Hosting.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Composition.Runtime.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Composition.TypedParts.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.Utility.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/bin/Debug/net6.0/WebApp.Utility.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.RazorAssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/refint/WebApp.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/WebApp.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/ref/WebApp.dll

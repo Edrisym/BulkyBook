@@ -1,0 +1,56 @@
+/Users/edrisym/Projects/WebApp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.AssemblyReference.cache
+/Users/edrisym/Projects/WebApp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Projects/WebApp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfoInputs.cache
+/Users/edrisym/Projects/WebApp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfo.cs
+/Users/edrisym/Projects/WebApp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.deps.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/refint/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.DataAccess/obj/Debug/net6.0/ref/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.deps.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/refint/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.DataAccess/obj/Debug/net6.0/ref/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.deps.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.csproj.CopyComplete
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/refint/WebApp.DataAccess.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/WebApp.DataAccess.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/Debug/net6.0/ref/WebApp.DataAccess.dll

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<WebAppMod.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Category List</h2>
+
+        </div>
+
+        @*
+            DO NOT USE SPACE IN asp-action AND asp-controller TAG HELPERS
+        *@
+        <div class="col-6 text-end">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary"> <i class="bi bi-plus-square"></i>&nbsp; Create New Category</a>
+        </div>
+
+    </div>
+    <br />
+
+
+    <table class="table table-bordered table-striped" style="width:100% ">
+        <thead class="text-center">
+            <tr>
+                <th>
+                    Id
+                </th>
+
+                <th>
+                    Category Name
+                </th>
+
+                <th>
+                    Display Order
+                </th>
+
+                <th>
+                    Choose
+                </th>
+                <th>
+                    Choose
+                </th>
+                <th>
+                    Choose
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td width="5%" class="text-center">
+                        @item.Id
+                    </td>
+
+                    <td width="15%" class="text-center">
+                        @item.Name
+                    </td>
+
+                    <td width="10%" class="text-center">
+                        @item.DisplayOrder
+                    </td>
+                    <td width="10%">
+                        <div class="w-100 btn-group" role="group">
+                            <a class="btn btn-primary" asp-controller="Category" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i>&nbsp; Edit</a>
+                        </div>
+                    </td>
+
+                    <td width="10%">
+                        <div class="w-100 btn-group" role="group">
+                            <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash3-fill"></i>&nbsp; Delete</a>
+                        </div>
+                    </td>
+
+                    <td width="10%">
+                        <div class="w-100 btn-group text-center" role="group">
+                            <a style=" border: 1px solid #000000;" class="btn btn-secondary" asp-controller="Category" asp-action="Detail" asp-route-id="@item.Id"><i class="bi bi-trash3-fill"></i>&nbsp; Detail</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

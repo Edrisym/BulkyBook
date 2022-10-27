@@ -1,0 +1,90 @@
+﻿<Properties StartupConfiguration="{617F50F3-80BC-404C-9CB9-9AA768A7AC9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp.Models/OrderHeader.cs">
+    <Files>
+      <File FileName="WebApp/Areas/Admin/Controllers/OrderController.cs" Line="46" Column="78" />
+      <File FileName="WebApp.Models/OrderHeader.cs" Line="7" Column="19" />
+      <File FileName="WebApp.Models/ApplicationUser.cs" Line="16" Column="9" />
+      <File FileName="WebApp.DataAccess/Repository/Repository.cs" Line="72" Column="1" />
+      <File FileName="WebApp.DataAccess/Repository/IRepository/IRepository.cs" Line="15" Column="11" />
+      <File FileName="WebApp.DataAccess/Repository/OrderHeaderRepository.cs" Line="41" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp" expanded="True">
+            <Node name="WebApp" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Company" expanded="True" />
+                    <Node name="Order" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Cart" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="AccessDenied.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True">
+                        <Node name="bootstrap-reboot.min.css" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="WebApp.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebApp.Utility" expanded="True" />
+            <Node name="WebAppMod.Models" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="OrderHeader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{617F50F3-80BC-404C-9CB9-9AA768A7AC9A}" ItemName="WebApp" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

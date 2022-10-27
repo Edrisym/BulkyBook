@@ -1,0 +1,52 @@
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.deps.json
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfo.cs
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/refint/WebAppMod.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.deps.json
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/refint/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook copy/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.deps.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/refint/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBook BcUp/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.deps.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.runtimeconfig.json
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfo.cs
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/refint/WebAppMod.Models.dll
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.genruntimeconfig.cache
+/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll

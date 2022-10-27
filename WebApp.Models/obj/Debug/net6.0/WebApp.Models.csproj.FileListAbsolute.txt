@@ -1,0 +1,12 @@
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebApp.Models.deps.json
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebApp.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/bin/Debug/net6.0/WebApp.Models.pdb
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.AssemblyInfo.cs
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/refint/WebApp.Models.dll
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/WebApp.Models.pdb
+/Users/edrisym/Projects/WebApp/WebApp.Models/obj/Debug/net6.0/ref/WebApp.Models.dll

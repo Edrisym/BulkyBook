@@ -1,0 +1,42 @@
+@model CoverType
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Category</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.DisplayOrder)*@
+        </dt>
+        <dd class="col-sm-10">
+            @*@Html.DisplayFor(model => model.DisplayOrder)*@
+        </dd>
+        <dt class="col-sm-2">
+            @*@Html.DisplayNameFor(model => model.CreatedDateTime)*@
+        </dt>
+        <dd class="col-sm-10">
+            @*@Html.DisplayFor(model => model.CreatedDateTime)*@
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary btn-group" role="group" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a class="btn btn-secondary btn-group" role="group" asp-action="Index" style="width:160px;border: 1px solid #000000;">Back to List</a>
+</div>
+@section Scripts{
+    @{
+
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

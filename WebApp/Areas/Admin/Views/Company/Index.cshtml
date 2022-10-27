@@ -1,0 +1,59 @@
+﻿
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Company List</h2>
+
+        </div>
+
+        @*
+            DO NOT USE SPACE IN asp-action AND asp-controller TAG HELPERS
+        *@
+        <div class="col-6 text-end">
+            <a asp-controller="Company" asp-action="Upsert" class="btn btn-primary"> <i class="bi bi-plus-square"></i>&nbsp; Create New Product</a>
+
+        </div>
+
+    </div>
+    <br />
+
+
+    <table id="tabledata" class="table text-center table-bordered table-striped">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Name
+                </th>
+
+                <th class="text-center">
+                    Address
+                </th>
+
+                <th class="text-center">
+                    City
+                </th>
+
+                <th class="text-center">
+                    State
+                </th>
+
+                <th class="text-center">
+                    Phome Number
+                </th>
+
+                <th class="text-center">
+                    Choose
+                </th>
+
+
+            </tr>
+        </thead>
+
+    </table>
+</div>
+@section Scripts
+{
+
+    <script src="~/js/Company.js"></script>
+
+}
