@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj": {}
+    "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj": {
+    "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj",
+        "projectUniqueName": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj",
         "projectName": "WebApp.DataAccess",
-        "projectPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj",
+        "projectPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.DataAccess/WebApp.DataAccess.csproj",
         "packagesPath": "/Users/edrisym/.nuget/packages/",
-        "outputPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.DataAccess/obj/",
+        "outputPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edrisym/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj": {
-                "projectPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj"
+              "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj": {
+                "projectPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj": {
+    "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj",
+        "projectUniqueName": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj",
         "projectName": "WebAppMod.Models",
-        "projectPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj",
+        "projectPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/WebAppMod.Models.csproj",
         "packagesPath": "/Users/edrisym/.nuget/packages/",
-        "outputPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/",
+        "outputPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edrisym/.nuget/NuGet/NuGet.Config"

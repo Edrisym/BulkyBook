@@ -50,3 +50,17 @@
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.pdb
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.genruntimeconfig.cache
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/ref/WebApp.Utility.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/bin/Debug/net6.0/WebApp.Utility.deps.json
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/bin/Debug/net6.0/WebApp.Utility.runtimeconfig.json
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/bin/Debug/net6.0/WebApp.Utility.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/bin/Debug/net6.0/WebApp.Utility.pdb
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.csproj.AssemblyReference.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.AssemblyInfoInputs.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.AssemblyInfo.cs
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.csproj.CoreCompileInputs.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/refint/WebApp.Utility.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.pdb
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/WebApp.Utility.genruntimeconfig.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/Debug/net6.0/ref/WebApp.Utility.dll

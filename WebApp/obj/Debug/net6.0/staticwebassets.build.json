@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9wC+fNSHznEe6b7tLKwFVCY5hjpldTBFbDz2ypaNEuc=",
+  "Hash": "NI3p81R0aBuNh4LQ/peMG3AK9tGDE+5uMaewCWhFky4=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApp/wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "/Users/edrisym/.nuget/packages/microsoft.aspnetcore.identity.ui/6.0.10/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css"
+      "OriginalItemSpec": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/bundle/WebApp.styles.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css",
       "SourceId": "WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/WebApp",
       "RelativePath": "WebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/obj/Debug/net6.0/scopedcss/projectbundle/WebApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/css/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/css/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/css/BootsWatchTheme.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/css/BootsWatchTheme.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/BootsWatchTheme.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/css/BootsWatchTheme.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/css/site.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/css/site.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/favicon.ico",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/.DS_Store",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/Images/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/An exception was thrown while attempting to evaluate a LINQ query parameter expression - Stack Overf.webarchive",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/An exception was thrown while attempting to evaluate a LINQ query parameter expression - Stack Overf.webarchive",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/An exception was thrown while attempting to evaluate a LINQ query parameter expression - Stack Overf.webarchive",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/Images/An exception was thrown while attempting to evaluate a LINQ query parameter expression - Stack Overf.webarchive"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/PaymentSuccessful.png",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/PaymentSuccessful.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/PaymentSuccessful.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/Images/PaymentSuccessful.png"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/.DS_Store",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/0ab1ece8-26f9-4cad-93d1-a677e87e9945.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/0ab1ece8-26f9-4cad-93d1-a677e87e9945.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/0ab1ece8-26f9-4cad-93d1-a677e87e9945.jpeg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/0ab1ece8-26f9-4cad-93d1-a677e87e9945.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/1b9f0069-8c60-4cf0-8313-6dba4c13a26a.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/1b9f0069-8c60-4cf0-8313-6dba4c13a26a.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/1b9f0069-8c60-4cf0-8313-6dba4c13a26a.jpeg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/1b9f0069-8c60-4cf0-8313-6dba4c13a26a.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/2f63c2d0-763b-4742-b154-a3c8ccc2b8d9.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/2f63c2d0-763b-4742-b154-a3c8ccc2b8d9.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/2f63c2d0-763b-4742-b154-a3c8ccc2b8d9.jpeg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/2f63c2d0-763b-4742-b154-a3c8ccc2b8d9.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/40a569a6-de91-4744-8c9e-cc89fb3e7a55.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/40a569a6-de91-4744-8c9e-cc89fb3e7a55.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/40a569a6-de91-4744-8c9e-cc89fb3e7a55.jpeg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/40a569a6-de91-4744-8c9e-cc89fb3e7a55.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/c17d8d88-c083-4e93-87f6-98cc7651adc3.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/c17d8d88-c083-4e93-87f6-98cc7651adc3.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/c17d8d88-c083-4e93-87f6-98cc7651adc3.jpeg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/c17d8d88-c083-4e93-87f6-98cc7651adc3.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/c322a11b-51d4-4678-a574-8f55954bd3fa.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/c322a11b-51d4-4678-a574-8f55954bd3fa.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/c322a11b-51d4-4678-a574-8f55954bd3fa.jpeg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/c322a11b-51d4-4678-a574-8f55954bd3fa.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/d2f79385-ed92-449b-bd37-392b8d7de2f3.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/d2f79385-ed92-449b-bd37-392b8d7de2f3.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/d2f79385-ed92-449b-bd37-392b8d7de2f3.jpeg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/d2f79385-ed92-449b-bd37-392b8d7de2f3.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/Images/Products/f7d0e1e7-c778-4416-94eb-ee5db94e40ef.jpeg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/Images/Products/f7d0e1e7-c778-4416-94eb-ee5db94e40ef.jpeg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "Images/Products/f7d0e1e7-c778-4416-94eb-ee5db94e40ef.jpeg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/Images/Products/f7d0e1e7-c778-4416-94eb-ee5db94e40ef.jpeg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/js/Company.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/js/Company.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/Company.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/js/Company.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/js/Order.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/js/Order.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/Order.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/js/Order.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/js/product.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/js/product.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/js/product.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/js/site.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/js/site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/.DS_Store",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/package/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/package/.DS_Store",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "package/.DS_Store",
       "AssetKind": "All",
@@ -2431,27 +2431,10 @@
       "OriginalItemSpec": "wwwroot/package/.DS_Store"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/.gitattributes",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "toastr/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/toastr/.DS_Store"
-    },
-    {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/.gitattributes",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/.gitattributes",
       "AssetKind": "All",
@@ -2465,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot/toastr/.gitattributes"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/.travis.yml",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/.travis.yml",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/.travis.yml",
       "AssetKind": "All",
@@ -2482,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot/toastr/.travis.yml"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/build/toastr.css",
       "AssetKind": "All",
@@ -2499,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot/toastr/build/toastr.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.js.map",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.js.map",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/build/toastr.js.map",
       "AssetKind": "All",
@@ -2516,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot/toastr/build/toastr.js.map"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.min.css",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/build/toastr.min.css",
       "AssetKind": "All",
@@ -2533,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/toastr/build/toastr.min.css"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.min.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/build/toastr.min.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/build/toastr.min.js",
       "AssetKind": "All",
@@ -2550,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot/toastr/build/toastr.min.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/demo.html",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/demo.html",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/demo.html",
       "AssetKind": "All",
@@ -2567,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot/toastr/demo.html"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/gulpfile.js",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/gulpfile.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/gulpfile.js",
       "AssetKind": "All",
@@ -2584,44 +2567,10 @@
       "OriginalItemSpec": "wwwroot/toastr/gulpfile.js"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.0.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "toastr/nuget/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/toastr/nuget/.DS_Store"
-    },
-    {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/content/.DS_Store",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "toastr/nuget/content/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/toastr/nuget/content/.DS_Store"
-    },
-    {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.0.nupkg",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.0.nupkg",
       "AssetKind": "All",
@@ -2635,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.0.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.1.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.1.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.1.nupkg",
       "AssetKind": "All",
@@ -2652,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.1.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.1.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.1.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.1.nuspec",
       "AssetKind": "All",
@@ -2669,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.1.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.2.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.2.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.2.nupkg",
       "AssetKind": "All",
@@ -2686,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.2.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.3.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.3.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.3.nupkg",
       "AssetKind": "All",
@@ -2703,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.3.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.3.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.0.3.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.0.3.nuspec",
       "AssetKind": "All",
@@ -2720,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.0.3.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.0.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.0.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.0.nupkg",
       "AssetKind": "All",
@@ -2737,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.0.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.1.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.1.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.1.nupkg",
       "AssetKind": "All",
@@ -2754,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.1.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.1.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.1.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.1.nuspec",
       "AssetKind": "All",
@@ -2771,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.1.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.2.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.2.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.2.nupkg",
       "AssetKind": "All",
@@ -2788,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.2.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.3.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.3.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.3.nupkg",
       "AssetKind": "All",
@@ -2805,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.3.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.2.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.2.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.4.2.nupkg",
       "AssetKind": "All",
@@ -2822,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.4.2.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.2.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.2.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.4.2.nuspec",
       "AssetKind": "All",
@@ -2839,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.4.2.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.4.nupkg",
       "AssetKind": "All",
@@ -2856,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.4.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.4.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.4.nuspec",
       "AssetKind": "All",
@@ -2873,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.4.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.5.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.5.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.5.nupkg",
       "AssetKind": "All",
@@ -2890,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.5.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.5.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.1.5.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.1.5.nuspec",
       "AssetKind": "All",
@@ -2907,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.1.5.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.0.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.0.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.2.0.nupkg",
       "AssetKind": "All",
@@ -2924,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.2.0.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.0.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.0.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.2.0.nuspec",
       "AssetKind": "All",
@@ -2941,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.2.0.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.1.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.1.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.2.1.nupkg",
       "AssetKind": "All",
@@ -2958,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.2.1.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.2.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.2.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.2.2.nupkg",
       "AssetKind": "All",
@@ -2975,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.2.2.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.2.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.2.2.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.2.2.nuspec",
       "AssetKind": "All",
@@ -2992,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.2.2.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.0.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.0.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.3.0.nupkg",
       "AssetKind": "All",
@@ -3009,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.3.0.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.0.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.0.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.3.0.nuspec",
       "AssetKind": "All",
@@ -3026,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.3.0.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.1.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.1.3.1.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.1.3.1.nupkg",
       "AssetKind": "All",
@@ -3043,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.1.3.1.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.2.0.1.nupkg",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.2.0.1.nupkg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.2.0.1.nupkg",
       "AssetKind": "All",
@@ -3060,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.2.0.1.nupkg"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.2.0.2.nuspec",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/nuget/toastr.2.0.2.nuspec",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/nuget/toastr.2.0.2.nuspec",
       "AssetKind": "All",
@@ -3077,27 +3026,10 @@
       "OriginalItemSpec": "wwwroot/toastr/nuget/toastr.2.0.2.nuspec"
     },
     {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/tests/.DS_Store",
+      "Identity": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/toastr/toastr.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
-      "BasePath": "_content/WebApp",
-      "RelativePath": "toastr/tests/.DS_Store",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/toastr/tests/.DS_Store"
-    },
-    {
-      "Identity": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/toastr/toastr.js",
-      "SourceId": "WebApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp/wwwroot/",
+      "ContentRoot": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp/wwwroot/",
       "BasePath": "_content/WebApp",
       "RelativePath": "toastr/toastr.js",
       "AssetKind": "All",

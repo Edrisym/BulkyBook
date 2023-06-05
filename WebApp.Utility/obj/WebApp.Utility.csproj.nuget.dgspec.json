@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj": {}
+    "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj": {}
   },
   "projects": {
-    "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj": {
+    "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj",
+        "projectUniqueName": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj",
         "projectName": "WebApp.Utility",
-        "projectPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj",
+        "projectPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/WebApp.Utility.csproj",
         "packagesPath": "/Users/edrisym/.nuget/packages/",
-        "outputPath": "/Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Utility/obj/",
+        "outputPath": "/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Utility/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/edrisym/.nuget/NuGet/NuGet.Config"

@@ -50,3 +50,17 @@
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.genruntimeconfig.cache
 /Users/edrisym/Desktop/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.deps.json
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.runtimeconfig.json
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/bin/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.AssemblyReference.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfoInputs.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.AssemblyInfo.cs
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.csproj.CoreCompileInputs.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/refint/WebAppMod.Models.dll
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.pdb
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/WebAppMod.Models.genruntimeconfig.cache
+/Users/edrisym/Documents/Drive/Work/VersionControl/bulkyBookBcUp/WebApp.Models/obj/Debug/net6.0/ref/WebAppMod.Models.dll
