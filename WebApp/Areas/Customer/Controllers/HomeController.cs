@@ -52,6 +52,13 @@ public class HomeController : Controller
 
         ShoppingCard cardFromDb = _unitOfWork.ShoppingCard.GetFirstOrDefault(u => u.ApplicationUserId == claim.Value && u.ProductId == shoppingCard.ProductId);
 
+        if (shoppingCard.Count <= 0)
+        {
+            TempData["error"] = "Can not be negative or zero";
+
+            return RedirectToAction(nameof(Index));
+        }
+
         if (cardFromDb == null)
         {
             _unitOfWork.ShoppingCard.Add(shoppingCard);
@@ -60,7 +67,9 @@ public class HomeController : Controller
         {
             _unitOfWork.ShoppingCard.IncrementCount(cardFromDb, shoppingCard.Count);
         }
+
         _unitOfWork.Save();
+        TempData["success"] = "Your Books have successfully added to your shop list!";
 
         return RedirectToAction(nameof(Index));
     }
